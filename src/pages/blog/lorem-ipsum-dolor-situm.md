@@ -1,25 +1,25 @@
 ---
 templateKey: article-page
-title: Helen Michel Axelson Blog Title
-slug: Helen Michel Axelson Blog Slug
+title: Helen Axelson Blog Title
+slug: Helen Axelson Blog Slug
 date: 2020-05-28T03:55:49.370Z
 cover: /img/01-1.jpg
-meta_title: Helen Michel Axelson Meta Title
+meta_title: Helen Axelson Meta Title
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam
   venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis
   consectetur purus sit amet fermentum.
 tags:
-  - Helen Michel Axelson Blog Tag01
-  - Helen Michel Axelson Blog Tag02
+  - Helen Axelson Blog Tag01
+  - Helen Axelson Blog Tag02
 ---
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 
-## Helen Michel Axelson Blog Experience
+## Helen Axelson Blog Experience
 
 Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
 

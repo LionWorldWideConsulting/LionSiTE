@@ -1,7 +1,7 @@
 ---
 templateKey: pricing-page
-title: Helen Michel Axelson
-meta_title: Pricing | Helen Michel Axelson
+title: Helen Axelson
+meta_title: Pricing | Helen Axelson
 meta_description: >-
   Cum sociis natoque penatibus et magnis dis parturient montes, nascetur
   ridiculus mus. Aenean eu leo quam. Pellentesque ornare sem lacinia quam

@@ -1,7 +1,7 @@
 ---
 templateKey: 'home-page'
-title: Helen Michel Axelson
-meta_title: Home | Helen Michel Axelson
+title: Helen Axelson
+meta_title: Home | Helen Axelson
 meta_description: >-
   Моя любименькая сестричка Алёнушка - практикующий уже не первый год специалист по налогам
   в США. Ей нужны клиенты, но не всякие, а только здравомыслящие и понимающие, что
